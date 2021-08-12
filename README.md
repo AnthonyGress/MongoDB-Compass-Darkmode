@@ -1,7 +1,7 @@
 # Mac MongoDB Compass Dark Mode
 No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS!
 
-Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/)
+Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/) \
 Linux Users: [This guy's script might work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
 
 TLDR; 
