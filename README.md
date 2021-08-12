@@ -12,7 +12,7 @@ Linux Users: [This guy's script might work](https://github.com/Pragalbha-Patil/m
 
 Windows Users: The zip file should work, just paste it into the correct MongoDB Compass directory for Windows
 
-# TLDR (Mac file path); 
+## TLDR (Mac file path); 
 1. Download file 
 2. navigate to /Applications/MongoDB Compass/Contents/Resources 
 3. rename app.asar (to make backup), unzip app.asar.zip 
