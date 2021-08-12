@@ -3,6 +3,7 @@ No longer do you need have your retinas burned by the unchangable light mode in 
 
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/) \
 Linux Users: [This guy's script might work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
+Windows Users: The zip file should work, just paste it into the correct MongoDB Compass directory for Windows
 
 TLDR; 
 * Download file 
