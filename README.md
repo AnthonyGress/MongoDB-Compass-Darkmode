@@ -36,7 +36,7 @@ Windows Users: The `app.asar` file should work, just paste it into the correct M
 9. Restart MongoDB Compass and it will be dark!
 
 ## Usage
-Dark mode has no settings or toggle, it is just on.
+Dark mode has no settings or toggle, it is just on. **This is the way**.
 
 ## Failed?
 If you want to revert back, simply **delete** the file _app.asar_ and **rename** the original _app_original.asar_ back to _app.asar_. \
