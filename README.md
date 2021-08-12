@@ -24,8 +24,8 @@ TLDR (Mac file path);
 * Restart MongoDB Compass and it will be dark!
 
 # Failed?
-If you want to revert back, simply **delete** the file _app.asar_ and **rename** the original _app_original.asar_ back to _app.asar_.
-Then Restart MongoDB Compass
+If you want to revert back, simply **delete** the file _app.asar_ and **rename** the original _app_original.asar_ back to _app.asar_. \
+Then Restart MongoDB Compass \ 
 You can always delete the app and install it again
 
 __*Script Coming Soon*__
