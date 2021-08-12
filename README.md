@@ -44,5 +44,10 @@ If you want to revert back, simply **delete** the file _app.asar_ and **rename**
 Then Restart MongoDB Compass
   
 You can always delete the app and install it again
+  
+## DIY
+These are the commands i used to extract the file and repackage it with the modifications.
+  1. `npx asar extract app.asar destination_folder`
+  2. `npx asar pack destination_folder app.new.asar`
 
 __*Script Coming Soon*__
