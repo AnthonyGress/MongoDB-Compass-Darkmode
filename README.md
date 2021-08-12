@@ -4,7 +4,7 @@ No longer do you need have your retinas burned by the unchangable light mode in 
 ## Modifications
 The app.asar file is the original app file plus 2 additions. The darkreader.js file from the dark reader chrome addon, and the script tag in the html. No other modifications have been made.
 
-This file is simply hosted here to make it easier to drag and drop dark mode. Dark mode has no settings or toggle, it is just on.
+This file is simply hosted here to make it easier to drag and drop dark mode.
 
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/)
 
@@ -19,7 +19,7 @@ Windows Users: The zip file should work, just paste it into the correct MongoDB 
 4. unzip app.asar.zip 
 5. drag and drop app.asar file into /Applications/MongoDB Compass/Contents/Resources 
 
-# Walkthrough (Mac file path):
+## Walkthrough (Mac file path):
 
 1. Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
 2. Download the dark mode asar.zip from this repo (original asar + dark reader chrome addon)
@@ -31,7 +31,9 @@ Windows Users: The zip file should work, just paste it into the correct MongoDB 
 8. copy the app.asar that you downloaded from this repo and paste it into the /Resources folder
 9. Restart MongoDB Compass and it will be dark!
 
-# Failed?
+## Usage
+
+## Failed?
 If you want to revert back, simply **delete** the file _app.asar_ and **rename** the original _app_original.asar_ back to _app.asar_. \
 Then Restart MongoDB Compass \
 You can always delete the app and install it again
