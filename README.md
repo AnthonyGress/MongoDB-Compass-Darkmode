@@ -1,4 +1,4 @@
-# MongoDB Compass Dark Mode
+# MongoDB Compass + Dark Mode (Dark Reader)
 No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS! 
 
 ## Modifications
