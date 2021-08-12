@@ -14,7 +14,7 @@ Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/c
 Linux Users: your directory would looks something like `/usr/lib/mongodb-compass/resources` -
 [This guy's script might also work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
 
-Windows Users: The zip file should work, just paste it into the correct MongoDB Compass directory for Windows
+Windows Users: The `app.asar` file should work, just paste it into the correct MongoDB Compass directory for Windows maybe `C:\Users\{YourUsername}\program filex\MongoDB Compass\resources`
 
 ## TLDR (Mac file path); 
 1. Download file 
