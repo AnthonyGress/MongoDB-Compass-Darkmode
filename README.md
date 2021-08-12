@@ -7,8 +7,8 @@ The `app.asar.zip` file is the original app file plus 2 additions.
 1. darkreader.js from the dark reader chrome addon
 2.  the <script> tag to link the javascript the html. No other modifications have been made.
 
-_This file is simply hosted here to make it easier to drag and drop dark mode.
-_
+_This file is simply hosted here to make it easier to drag and drop dark mode_
+  
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/)
 
 Linux Users: your directory would looks something like `/usr/lib/mongodb-compass/resources` 
