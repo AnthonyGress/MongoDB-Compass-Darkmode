@@ -1,5 +1,5 @@
 # Mac MongoDB Compass Dark Mode
-No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS.
+No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS!
 
 TLDR; 
 * Download file 
