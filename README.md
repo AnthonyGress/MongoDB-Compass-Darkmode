@@ -1,5 +1,5 @@
 # MongoDB Compass Dark Mode
-No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS!
+No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS! The app.asar file is the original app file plus 2 additions. The darkreader.js file from the dark reader chrome addon, and the script tag in the html. No other modifications have been made. This file is simply hosted here to make it easier to drag and drop dark mode. Dark mode has no settings or toggle, it is just on.
 
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/) \
 Linux Users: [This guy's script might work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode) \
