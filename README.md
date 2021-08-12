@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1CYOGvTqIDde-J4psfEiqbFa1dnZKuuA4/view?usp=shari
 * Restart MongoDB Compass and it will be dark!
 
 Failed?
-If you want to revert back, simply delete the new file app.asar and rename the original app_original.asar back to app.asar.
+If you want to revert back, simply **delete** the file _app.asar_ and **rename** the original _app_original.asar_ back to _app.asar_.
 Restart MongoDB Compass
 
 __*Script Coming Soon*__
