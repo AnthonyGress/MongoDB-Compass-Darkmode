@@ -8,27 +8,28 @@ This file is simply hosted here to make it easier to drag and drop dark mode.
 
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/)
 
-Linux Users: [This guy's script might work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
+Linux Users: your directory would looks something like `/usr/lib/mongodb-compass/resources` 
+[This guy's script might also work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
 
 Windows Users: The zip file should work, just paste it into the correct MongoDB Compass directory for Windows
 
 ## TLDR (Mac file path); 
 1. Download file 
-2. navigate to /Applications/MongoDB Compass/Contents/Resources 
-3. rename app.asar (to make backup)
-4. unzip app.asar.zip 
-5. drag and drop app.asar file into /Applications/MongoDB Compass/Contents/Resources 
+2. navigate to `/Applications/MongoDB Compass/Contents/Resources` 
+3. rename _app.asar_ (to make backup)
+4. unzip `app.asar.zip` 
+5. drag and drop `app.asar` file into `/Applications/MongoDB Compass/Contents/Resources` 
 
 ## Walkthrough (Mac file path):
 
 1. Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
-2. Download the dark mode asar.zip from this repo (original asar + dark reader chrome addon)
-3. Once installed, go to the finder and click your /Applications folder
+2. Download the dark mode `asar.zip` from this repo (original asar + dark reader chrome addon)
+3. Once installed, go to the finder and click your `/Applications` folder
 4. Find MongoDB Compass in the list and right click it > show package contents
-5. Click /Contents
-6. Click /Resources
-7. rename the original app.asar in /Resources to app_original.asar
-8. copy the app.asar that you downloaded from this repo and paste it into the /Resources folder
+5. Click `/Contents`
+6. Click `/Resources`
+7. rename the original `app.asar` in `/Resources` to `app_original.asar`
+8. copy the app.asar that you downloaded from this repo and paste it into the `/Resources` folder
 9. Restart MongoDB Compass and it will be dark!
 
 ## Usage
