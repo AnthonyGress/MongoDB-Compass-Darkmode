@@ -12,7 +12,7 @@ TLDR;
 # Walkthrough:
 
 * Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
-* Download the dark mode asar.zip from this repo (basically added dark reader chrome addon js)
+* Download the dark mode asar.zip from this repo (original asar + dark reader chrome addon)
 * Once installed, go to the finder and click your /Applications folder
 * Find MongoDB Compass in the list and right click it > show package contents
 * Click /Contents
