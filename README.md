@@ -25,7 +25,7 @@ Windows Users: The zip file should work, just paste it into the correct MongoDB 
 1. Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
 2. Download the dark mode `asar.zip` from this repo (original asar + dark reader chrome addon)
 3. Once installed, go to the finder and click your `/Applications` folder
-4. Find MongoDB Compass in the list and right click it > show package contents
+4. Find MongoDB Compass in the list and right click `Show Package Contents`
 5. Click `/Contents`
 6. Click `/Resources`
 7. rename the original `app.asar` in `/Resources` to `app_original.asar`
