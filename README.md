@@ -6,8 +6,7 @@ TLDR; Download file, rename original app.asar, drag and drop new file into /Appl
 # Walkthrough:
 
 * Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
-* Download the dark mode addon (basically added dark reader chrome addon js)
-https://drive.google.com/file/d/1CYOGvTqIDde-J4psfEiqbFa1dnZKuuA4/view?usp=sharing
+* Download the dark mode asar.zip from this repo (basically added dark reader chrome addon js)
 * Once installed, go to the finder and click your /Applications folder
 * Find MongoDB Compass in the list and right click it > show package contents
 * Click /Contents
