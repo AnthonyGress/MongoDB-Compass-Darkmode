@@ -2,7 +2,10 @@
 No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS! 
 
 ## Modifications
-The app.asar file is the original app file plus 2 additions. The darkreader.js file from the dark reader chrome addon, and the script tag in the html. No other modifications have been made.
+The `app.asar.zip` file is the original app file plus 2 additions. 
+
+1. darkreader.js from the dark reader chrome addon
+2.  the <script> tag to link the javascript the html. No other modifications have been made.
 
 This file is simply hosted here to make it easier to drag and drop dark mode.
 
