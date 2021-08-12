@@ -1,7 +1,11 @@
 # Mac MongoDB Compass Dark Mode
 No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS.
 
-TLDR; Download file, rename original app.asar, drag and drop new file into /Applications/MongoDB Compass/Contents/Resources
+TLDR; 
+* Download file 
+* navigate to /Applications/MongoDB Compass/Contents/Resources 
+* rename app.asar (to make backup), unzip app.asar.zip 
+* drag and drop app.asar file into /Applications/MongoDB Compass/Contents/Resources 
 
 # Walkthrough:
 
