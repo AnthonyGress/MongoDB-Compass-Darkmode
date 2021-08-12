@@ -11,7 +11,7 @@ _This file is simply hosted here to make it easier to drag and drop dark mode_
   
 Original idea for Linux/Windows from [Reddit](https://www.reddit.com/r/mongodb/comments/mj1zr0/successfully_achieved_darkmode_for_mongodb_compass/)
 
-Linux Users: your directory would looks something like `/usr/lib/mongodb-compass/resources` 
+Linux Users: your directory would looks something like `/usr/lib/mongodb-compass/resources` -
 [This guy's script might also work](https://github.com/Pragalbha-Patil/mongodb-compass-dark-mode)
 
 Windows Users: The zip file should work, just paste it into the correct MongoDB Compass directory for Windows
