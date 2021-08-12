@@ -1,6 +1,8 @@
 # Mac MongoDB Compass Dark Mode
 No longer do you need have your retinas burned by the unchangable light mode in MongoDB Compass on Mac OS.
 
+TLDR; Download file, rename original app.asar, drag and drop new file into /Applications/MongoDB Compass/Contents/Resources
+
 * Download MongoDB Compass from https://www.mongodb.com/try/download/compass (tested on v 1.28.1 MacOS 10.15.7)
 * Download the dark mode addon (basically added dark reader chrome addon js)
 https://drive.google.com/file/d/1CYOGvTqIDde-J4psfEiqbFa1dnZKuuA4/view?usp=sharing
