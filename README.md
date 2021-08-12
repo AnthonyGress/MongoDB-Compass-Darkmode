@@ -15,8 +15,9 @@ Windows Users: The zip file should work, just paste it into the correct MongoDB 
 ## TLDR (Mac file path); 
 1. Download file 
 2. navigate to /Applications/MongoDB Compass/Contents/Resources 
-3. rename app.asar (to make backup), unzip app.asar.zip 
-4. drag and drop app.asar file into /Applications/MongoDB Compass/Contents/Resources 
+3. rename app.asar (to make backup)
+4. unzip app.asar.zip 
+5. drag and drop app.asar file into /Applications/MongoDB Compass/Contents/Resources 
 
 # Walkthrough (Mac file path):
 
