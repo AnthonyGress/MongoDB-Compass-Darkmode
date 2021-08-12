@@ -11,3 +11,5 @@ https://drive.google.com/file/d/1CYOGvTqIDde-J4psfEiqbFa1dnZKuuA4/view?usp=shari
 * rename app.asar to app_original.asar
 * copy the app.asar that you downloaded from the google drive and paste it into the Resources folder
 * Start MongoDB Compass and it will be dark!
+
+__**Script Coming Soon**__
