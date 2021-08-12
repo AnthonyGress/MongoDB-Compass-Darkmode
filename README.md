@@ -20,7 +20,7 @@ TLDR (Mac file path);
 * Click /Contents
 * Click /Resources
 * rename the original app.asar in /Resources to app_original.asar
-* copy the app.asar that you downloaded from the google drive and paste it into the /Resources folder
+* copy the app.asar that you downloaded from this repo and paste it into the /Resources folder
 * Restart MongoDB Compass and it will be dark!
 
 # Failed?
