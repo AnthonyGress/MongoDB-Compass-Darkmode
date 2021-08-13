@@ -31,9 +31,10 @@ Windows Users: The `app.asar` file should work, just paste it into the correct M
 4. Find MongoDB Compass in the list and right click `Show Package Contents`
 5. Click `/Contents`
 6. Click `/Resources`
-7. rename the original `app.asar` in `/Resources` to `app_original.asar`
-8. copy the app.asar that you downloaded from this repo and paste it into the `/Resources` folder
-9. Restart MongoDB Compass and it will be dark!
+7. Rename the original `app.asar` in `/Resources` to `app_original.asar`
+8. Copy the `app.asar.zip` that you downloaded from this repo and paste it into the `/Resources` folder
+9. Make sure to **unzip** the `app.asar.zip` file here.
+10. Restart MongoDB Compass and it will be dark!
 
 ## Usage
 Dark mode has no settings or toggle, it is just on. **This is the way**.
