@@ -51,4 +51,4 @@ These are the commands i used to extract the file and repackage it with the modi
   1. `npx asar extract app.asar destination_folder`
   2. `npx asar pack destination_folder app.new.asar`
 
-__*Script Coming Soon*__
+__*Mac Script Coming Soon*__
